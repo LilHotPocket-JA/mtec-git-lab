@@ -18,3 +18,15 @@ A platform seems like a simpler game I could be able to do in a reasonable amoun
 The character will just use WASD
 
 You lose when you are hit by an enemy. To win collect all the collectables and leave 
+
+Part3
+You would enter a dungeon and explore to find loot that can be sold in a shop.
+ With each level in the dungeon the enemies get harder and there are chances of their being a boss.
+ 
+I think it would be fun to have a dungeon crawler where you have to debate between staying to fight
+ and potentially losing everything or retreating and losing your progress in the dungeon itself
+
+WASD to move and i am not sure what button to use for attacks
+
+You win when you hit the final boss room that occurs at higher levels
+
