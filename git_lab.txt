@@ -1,3 +1,4 @@
+Part1
 The Game is a fighting game. For now I would like to start with a red man and a blue man with different movesets.
  If I have time to do expand the concept,
  I would love to flesh out the concept with more characters and give “red man” and “blue man” their own designs and personalities separate from their abilities
@@ -8,3 +9,12 @@ You will interact with the character and attack the second player
 (if there is a way to add multiplayer I can make the controllers each player’s keyboard if not, I would make player 1 WASD and player 2  IJKL)
 
 The Win/Lose condition is when a player reaches
+
+Part2
+A platformer where you are chased by an enemy and have to collect collectables to win, simuliar to Dark Deception
+
+A platform seems like a simpler game I could be able to do in a reasonable amount of time.
+ 
+The character will just use WASD
+
+You lose when you are hit by an enemy. To win collect all the collectables and leave 
